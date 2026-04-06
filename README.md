@@ -1,7 +1,7 @@
 # git
 aula git - Senac SMP
 
-#Orientações
+# Orientações
 Pode baixar via VSCode, estrutura de projeto simples em html, css e js
 
 # Contato dev
